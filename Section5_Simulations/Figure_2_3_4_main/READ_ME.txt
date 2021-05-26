@@ -1,0 +1,1 @@
+Open case1_plot.py in an IDE say jupyter notebook and then run from end to end. It will reproduce the three MCMC diagnostics figures reported in the paper.  
