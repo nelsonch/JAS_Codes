@@ -52,8 +52,8 @@ y_pred = fit.GenerateY(res, Y)
 y = Y.values[:, -1]
 k = len(res)
 tg1 = np.sum((y_pred - np.mean(y))**2)/len(y)
-tg2 = res[-4]
-tg3 = res[-1]
+tg2 = res[-4] ##### get the fourth element from bottom of a vector. This Python syntax is very different from the same syntax for R.   
+tg3 = res[-1]  ###### get the last element of a vector. This Python syntax is very different from the same syntax for R.  
 
 mar_r = tg1/(tg1+tg2+tg3)
 con_r = (tg1+tg2)/(tg1+tg2+tg3)
