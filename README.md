@@ -1,1 +1,1 @@
-The repository contains the complete computing codes to support the submisison of the paper titled as ``Hierarchical Marketing Mix Models with Sign Constraints" to Journal of Applied Statistics.
+The repository contains the complete computing codes of the paper titled as ``Hierarchical Marketing Mix Models with Sign Constraints" published in Journal of Applied Statistics at https://doi.org/10.1080/02664763.2021.1946020
